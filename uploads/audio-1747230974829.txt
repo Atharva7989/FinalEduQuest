@@ -1,0 +1,6 @@
+Imagine knowing our programming language using which you can build any type of application.
+Web application, front end, back end both, mobile application, desktop application, and even for machine learning.
+And that language I'm talking about is JavaScript.
+So using JavaScript you can build all these applications.
+Welcome back to Aliens. My name is Evan Ready and let's get started.
+So we are top.

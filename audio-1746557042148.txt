@@ -1,0 +1,107 @@
+Imagine knowing our programming language using which you can build any type of application.
+Web application, front end, back end, both, mobile application, desktop application and even for machine learning.
+And that language I'm talking about is JavaScript.
+So using JavaScript you can build all these applications.
+Welcome back to Aliens. My name is Evan Ready and let's get started.
+So we are talking about JavaScript and finally I'm starting a series on JavaScript.
+So first of all, what is JavaScript?
+Now JavaScript is a programming language which you can use to develop any kind of application which we named before.
+But then it didn't start in that way.
+In 1995 when JavaScript was released, it was for a different purpose.
+It has a different history.
+Again, we'll talk about the history of JavaScript so that we can predict the future
+and we'll discuss that in a separate video.
+But let's talk about 1995.
+When JavaScript came into existence, it was mainly for the web front end.
+Example in 1993 when websites were getting famous, everyone wanted to have their own website.
+But the only way you can interact with the website is one way.
+So basically you request for a page and watch you get a static content.
+Of course you can design it but then you can't interact with that application.
+Every time if you want to move between pages, you have to use hyperlinks.
+So basically that website was not interactive.
+And if you want to keep your audience engaged, you have to make an interactive.
+So let's get came up with this programming language called JavaScript with the help of Sunmicro System.
+And they released JavaScript in their Netscape Navigator 2.
+So that's awesome, right?
+We got a programming language but that was only for the web front end.
+Just to make your web application interactive.
+And for many years, it was that way.
+I mean, the moment you think about JavaScript only use case you can find is
+building the front end of the web application.
+But then things got changed.
+Now you can use JavaScript anywhere.
+The reason is JavaScript was easy and we have so many people working on this language.
+So they thought, hey, instead of using JavaScript only for web application,
+can we use it for building the back end of web as well?
+Maybe we can use it for mobile application.
+Maybe we can use it for desktop application or maybe we can use it for machine learning.
+And that's where they started using JavaScript everywhere.
+They were able to do it because of the engine.
+So every browser will be having a JavaScript engine.
+So the reason you are able to run the application, of course, we'll see that in the practical.
+But you can run any JavaScript code on the browsers because it has a engine.
+Just take that engine, make sure that engine runs on the hardware or the OS which you have.
+Basically, you can run JavaScript on your OS now or on your machine, right?
+So just to give you a hint, that is possible with the help of NodeJS.
+So NodeJS is a runtime environment.
+Imagine a place where you can run JavaScript.
+Basically, if you have that stuff anywhere, maybe a mobile application,
+desktop application, machine learning, you can run it.
+That's the power of JavaScript.
+Now, this course is not designed in a normal fashion or the traditional fashion.
+So the moment you talk about JavaScript,
+if you want to learn about the HTML DOM elements and how do you change the data on the
+HTML page because that's how JavaScript came into existence, right?
+Now, that's not the reason why I'm making this playlist.
+For me, I want to create JavaScript as a programming language.
+Not only for the web frontend, okay?
+See, there's no harm in learning JavaScript for the web and then move towards other aspects.
+But it's tricky, right?
+Once you move from frontend to backend, you may not be comfortable.
+So I will start this series running JavaScript directly on the machine, okay?
+So that we will not learn JavaScript only for web, but in a proper way so that you will understand
+JavaScript from start to end.
+Of course, we will be using that for frontend in between.
+We will be using for, let's say, we'll talk about how can we use it for other purpose as well.
+But the idea is to learn JavaScript from start to end.
+Okay, now coming back to JavaScript.
+JavaScript is actually one of the most famous programming language nowadays.
+Now, if you go to Google and search for top five programming language,
+doesn't matter which article I'm talking about,
+check the first 10 links.
+They will mention JavaScript in top five.
+Someone might say one or two or three or four or five,
+you will see JavaScript there.
+Okay, I've not done that research, but I'm quite sure JavaScript is that famous.
+Why is because you can make applications on any platform, right?
+And most of the websites, in fact, as for Wikipedia, 97% of the websites are using
+JavaScript for their client side.
+So you don't have an option, right?
+So we have a different history.
+We have some awesome facts.
+Okay, so in the series, we also talk about some facts.
+Example, let me give you one fact.
+If you know JavaScript and if you have been working on JavaScript,
+so I want to know in the comment section,
+who owns the trademark for JavaScript?
+Okay, pause the video.
+Comment your answer.
+So let me give you the answer.
+It's oracle.
+Okay, so there is a huge history behind JavaScript and it's interesting.
+So we'll talk about that as well.
+I hope you are excited for this series.
+I want to make sure that you'll learn from start to end.
+But you have to make sure that you also practice.
+It's a programming language, right?
+You can't just look at the video and you can remember everything.
+You have to practice.
+Practice makes you perfect.
+Okay, so every time you watch a video, do it on your machine.
+I would also suggest that you change the code, do some experiments,
+and that's how you go.
+So that's it from this video.
+I hope you're excited.
+Hit that like button if you want to enjoy the series and also make sure that you come in.
+How excited you are about the series.
+Bye.
